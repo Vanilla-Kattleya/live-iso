@@ -1,6 +1,6 @@
 #!/bin/bash -ex
 
-# Specific ubuntu-image chroot configuration goes here.
+# Specific image chroot configuration goes here.
 if [ "$IMAGEFORMAT" == "none" ]; then
     if [ "$SUBPROJECT" == "desktop-preinstalled" ]; then
         mkdir -p /var/log/installer

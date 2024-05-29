@@ -41,26 +41,23 @@ locales
 zstd
 ntpsec
 
-gdm3
+sddm
 xorg
 
-gnome-shell
-gnome-session
-gnome-browser-connector
-gnome-disk-utility
-gnome-control-center
-kgx
+kde-plasma-desktop
+plasma-workspace
+konsole
 
 wpasupplicant
-network-manager-gnome
+plasma-nm
 modemmanager
 bluez
 
 epiphany-browser
-xdg-desktop-portal-gnome
-evolution-data-server
-mutter
-gjs
+xdg-desktop-portal-kde
+akonadi-server
+kwin
+kjs
 
 fonts-cantarell
 fonts-dejavu-core

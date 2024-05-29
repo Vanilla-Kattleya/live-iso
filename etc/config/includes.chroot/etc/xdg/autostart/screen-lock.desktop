@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Deactive lock screen
-Comment=Deactive the gnome lock screen in the live session
+Name=Deactivate lock screen
+Comment=Deactivate the Plasma lock screen in the live session
 Type=Application
-Icon=nautilus
-Exec=sh -c "gsettings set org.gnome.desktop.screensaver lock-enabled false"
+Icon=system-lock-screen
+Exec=sh -c "qdbus org.kde.screensaver /ScreenSaver SetActive false"

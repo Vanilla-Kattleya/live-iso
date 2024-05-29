@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir -p /etc/skel/.config
+cat > /etc/skel/.config/kscreenlockerrc <<EOF
+[ScreenSaver]
+LockScreen=false
+EOF
