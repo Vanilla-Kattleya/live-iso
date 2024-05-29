@@ -53,8 +53,8 @@ bluez
 
 firefox
 xdg-desktop-portal-kde
-akonadi-server
 gjs
+mutter
 
 fonts-cantarell
 fonts-dejavu-core
