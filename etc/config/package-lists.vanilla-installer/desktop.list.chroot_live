@@ -45,8 +45,6 @@ sddm
 xorg
 
 kde-plasma-desktop
-plasma-workspace
-konsole
 
 wpasupplicant
 plasma-nm
@@ -56,8 +54,7 @@ bluez
 firefox
 xdg-desktop-portal-kde
 akonadi-server
-kwin
-kjs
+gjs
 
 fonts-cantarell
 fonts-dejavu-core
